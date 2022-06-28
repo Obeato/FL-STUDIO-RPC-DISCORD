@@ -17,6 +17,8 @@ I didn't really focus on the design.
 
 if you have a problem with the tool, do not hesitate to contact me.
 
+Written in C#.
+
 ## Contact
 
 Discord : Tobirama#5025
